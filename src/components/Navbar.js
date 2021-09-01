@@ -2,11 +2,7 @@
 const Navbar = () => {
     return(
         <div>
-            Home 
-            About 
-            portfolio
-            blog
-            contact
+            Hi ..there this is arshad 
         </div>
     );
 }
